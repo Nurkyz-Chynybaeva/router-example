@@ -1,4 +1,4 @@
-import CommentsFull from "./CommetnsFull/CommentsFull"
+import CommentsFull from "./CommentsFull/CommentsFull"
 import CommentsList from "./CommentsList/CommentsList"
 import  { Route } from "react-router"
 
