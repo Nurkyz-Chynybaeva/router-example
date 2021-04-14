@@ -5,7 +5,7 @@ import Contact from "./components/Сontacts/Contacts"
 import Home from "./components/Home/Home"
 
 import { Route } from "react-router-dom"
-import {  NavLink, Switch } from 'react-router-dom/cjs/react-router-dom.min';
+import {  NavLink, Switch } from 'react-router-dom';
 import NotFound from './components/NotFound/NotFound';
 import Posts from './components/Posts/Posts';
 
