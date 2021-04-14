@@ -49,7 +49,16 @@ function App() {
   </li>
 
   
-
+  <li> <NavLink
+            activeStyle={activeLinkStyle}
+            activeClassName="activeLink"
+            to="/comments"
+            exact
+          >
+            Comments
+          </NavLink>
+  
+  </li>
   <li>
   <NavLink
             activeStyle={activeLinkStyle}
@@ -81,9 +90,3 @@ function App() {
 }
 
 export default App;
-
-
-
-
-
-

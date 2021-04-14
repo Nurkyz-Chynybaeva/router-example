@@ -1,4 +1,4 @@
-const PostFull = ( {match}) => {
+const CommentsFull = ( {match}) => {
   return ( 
     <h1>
       PostFull # {match.params.id}
@@ -6,4 +6,4 @@ const PostFull = ( {match}) => {
    );
 }
  
-export default PostFull;
+export default CommentsFull;
