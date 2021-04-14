@@ -1,0 +1,15 @@
+.contacts{
+  display: flex;
+flex-direction: column;
+margin-left: 43%;
+}
+.divs{
+
+border: 5px solid rgb(5, 5, 173);
+margin: 20px;
+width:  200px;
+color: rgb(48, 60, 233);
+font-weight: bold;
+font-size: 20px;
+box-shadow:  0 0 10px rgb(6, 23, 173);
+}
