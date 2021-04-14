@@ -12,7 +12,7 @@ const Comments = ( {match}) => {
      <Route path = "/comments/:id"  component = {CommentsFull} />
    
     </div>
-   );s
+   );
 }
  
 export default Comments;
